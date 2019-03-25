@@ -16,6 +16,8 @@ youtube_alternate_image:
 youtube_code: lIY3B8LMWmo
 ---
 
+{% include youtube.html %}
+
 We’ve found that with all these new tech toys and social media platforms, there are so many distractions in the world of real estate.
 
 To help hone their focus, I have our agents sit down and write out the top three areas they want to focus on in their business. Once they figure out what they want to do, whether it be FSBOs, expireds, internet leads, or working by referral, we challenge them to divert their focus to those three areas. If they’re a new agent, we ask them to pick three pillars of business that they think they’d like.
