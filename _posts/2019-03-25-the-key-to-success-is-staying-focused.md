@@ -28,6 +28,8 @@ But what does it mean to focus?
 
 For our part, my team likes to come into the office, get their things ready, do a quick team huddle to see how things are going, and then do a little bit of script and role-play practice.
 
+{% include pullquote.html %}
+
 <br>From 9 a.m. to 11 a.m. Monday to Friday, also called our “power hour,” our focus is on the phones, where we call our internet leads and personal spheres to work referrals. During that time, we also write handwritten notes to thank our clients and those who are referred to us.
 
 After the power hour, we go over scripts and role playing again, just to see how things when.
