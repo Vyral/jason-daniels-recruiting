@@ -1,8 +1,9 @@
 ---
 layout: post
 title: What Does It Require to Be a Successful Entrepreneur?
-date: 2019-06-21 19:50:09
+date: 2019-06-21 19:50:00
 tags:
+  - Real Estate
 excerpt: >-
   Being a successful entrepreneur isn’t all about money. This is what it truly
   takes.
