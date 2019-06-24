@@ -18,7 +18,7 @@ youtube_code: nfBOWCBGw34
 
 {% include youtube.html %}
 
-I meet up-and-coming business owners all the time and they sometimes ask me what it requires to be a successful entrepreneur. I’d like to share my thoughts with all of you today.
+I meet up-and-coming business owners all the time and they sometimes ask me what it takes to be a successful entrepreneur. I’d like to share my thoughts with all of you today.
 
 **Basically, it all boils down to determination.** You have to make sure that you’re determined to achieve the goals you want. It’s not all about the money or the fame, it’s about serving others. If you can provide a value for someone that’s higher than what they’re already paying for, then you’re going to be a true success.
 
