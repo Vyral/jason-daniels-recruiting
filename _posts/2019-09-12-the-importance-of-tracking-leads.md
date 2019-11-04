@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Tracking Leads
-date: 2019-11-04 16:30:45
+date: 2019-09-12 16:30:00
 tags:
 excerpt: >-
   Running a successful real estate business becomes much easier when you know
