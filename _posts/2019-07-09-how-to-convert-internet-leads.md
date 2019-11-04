@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Convert Internet Leads
-date: 2019-11-04 15:51:00
+date: 2019-07-09 15:51:00
 tags:
 excerpt: >-
   Having a follow-up strategy in place is key to converting internet leads. What
