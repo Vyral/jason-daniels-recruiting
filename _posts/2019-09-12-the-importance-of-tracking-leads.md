@@ -22,12 +22,12 @@ Regardless of the industry, every business owner should track where their revenu
 
 Why?&nbsp;
 
-The bottom line is that tracking your leads helps you to make sure that you’re spending your money and your time wisely. All you need is a simple spreadsheet to determine where your clients are coming from. If you identify that most of your clients tend to come from a certain source, you can then redirect your time, money, and energy accordingly.
+The bottom line is that tracking your leads helps you to make sure that you’re spending your money and your time wisely. All you need is a simple spreadsheet to determine where your clients are coming from. **If you identify that most of your clients tend to come from a certain source, you can then redirect your time, money, and energy accordingly.**
 
 {% include pullquote.html %}
 
 If you’re tracking your leads and leveraging your resources correctly, you should be making at least twice as much as you’re spending. If something isn’t bringing you a high return (or any return at all), then it may be time to scratch it off of your schedule.&nbsp;
 
-Once you get the hang of tracking your leads, you may find it beneficial to invest in CRM software that will do it for you. It’s all about finding what makes sense for you and your business.&nbsp;
+Once you get the hang of tracking your leads, **you may find it beneficial to invest in CRM software that will do it for you.** It’s all about finding what makes sense for you and your business.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
