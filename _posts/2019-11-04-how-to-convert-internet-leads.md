@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Convert Internet Leads
-date:
+date: 2019-11-04 15:51:05
 tags:
 excerpt: >-
   Having a follow-up strategy in place is key to converting internet leads. What
@@ -15,7 +15,11 @@ youtube_alternate_image:
 youtube_code: UdH6giUvF3w
 ---
 
-{% include youtube.html %}<center>Having a follow-up strategy in place is key to converting internet leads. </center>
+{% include youtube.html %}
+
+<center>Having a follow-up strategy in place is key to converting internet leads.</center>
+
+&nbsp;
 
 *What is your plan for converting internet leads? The answer boils down to three factors: **your immediate, mid-term, and long-term follow up.&nbsp;***
 
