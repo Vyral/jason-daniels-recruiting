@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Convert Internet Leads
-date: 2019-11-04 15:51:05
+date: 2019-11-04 15:51:00
 tags:
 excerpt: >-
   Having a follow-up strategy in place is key to converting internet leads. What
@@ -17,7 +17,7 @@ youtube_code: UdH6giUvF3w
 
 {% include youtube.html %}
 
-<center>Having a follow-up strategy in place is key to converting internet leads.</center>
+<center><em>Having a follow-up strategy in place is key to converting internet leads.</em></center>
 
 &nbsp;
 
