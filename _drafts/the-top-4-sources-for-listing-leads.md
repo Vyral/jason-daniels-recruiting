@@ -15,7 +15,7 @@ youtube_alternate_image:
 youtube_code: JM_Wcldme2I
 ---
 
-{% include youtube.html %}*What are the best sources for listing leads? Find out today**.*
+{% include youtube.html %}<center>What are the best sources for listing leads? Find out today.</center>
 
 There are many different places an agent can find business, but when it comes to finding listing leads, these four sources stand out above the rest:
 
