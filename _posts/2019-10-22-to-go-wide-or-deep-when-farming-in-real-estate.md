@@ -15,7 +15,9 @@ youtube_alternate_image:
 youtube_code: 8WlTWrece34
 ---
 
-{% include youtube.html %}<center>Farming is an effective lead-generation strategy, but there is more than one way to do it. Here are two of the most common.</center>
+{% include youtube.html %}
+
+<center>Farming is an effective lead-generation strategy, but there is more than one way to do it. Here are two of the most common.</center>
 
 &nbsp;
 
