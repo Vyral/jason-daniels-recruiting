@@ -11,7 +11,7 @@ pullquote: Your goal should be consistent follow up—the leads work when you wo
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/jason.jpg
 youtube_code: UdH6giUvF3w
 ---
 
