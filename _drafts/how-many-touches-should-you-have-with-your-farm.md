@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/daniels-youtube-14.jpg
 youtube_code: xqE0kObKYKI
 ---
 
-{% include youtube.html %}How many touches should you have with your farm? Here are my thoughts.
+{% include youtube.html %}<center>How many touches should you have with your farm? Here are my thoughts.</center>
 
 Here’s a question for you agents out there: When it comes to your farm, how many touches should you have?
 
