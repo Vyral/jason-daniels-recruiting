@@ -15,7 +15,11 @@ youtube_alternate_image:
 youtube_code: SN-wd_mBZeQ
 ---
 
-{% include youtube.html %}<center>A few tips for new or aspiring entrepreneurs.</center>
+{% include youtube.html %}
+
+<center>A few tips for new or aspiring entrepreneurs.</center>
+
+&nbsp;
 
 What does it take to become a successful entrepreneur? I’m often asked this question by fledgling business owners, and it’s no wonder: Entrepreneurship comes with its fair share of risks. Because of that, developing good habits and practices right from the word go is very important.
 
