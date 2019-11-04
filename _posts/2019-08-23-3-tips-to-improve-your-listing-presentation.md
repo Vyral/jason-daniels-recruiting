@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips to Improve Your Listing Presentation
-date: 2019-11-04 16:23:45
+date: 2019-08-23 16:23:00
 tags:
 excerpt: >-
   If you want to improve your listing presentation and sell more homes, here are
