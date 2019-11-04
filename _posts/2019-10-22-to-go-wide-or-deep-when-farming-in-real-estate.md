@@ -11,7 +11,7 @@ pullquote: Start by picking an area with 50 to 300 homes.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/daniels-youtube-12.jpg
 youtube_code: 8WlTWrece34
 ---
 
