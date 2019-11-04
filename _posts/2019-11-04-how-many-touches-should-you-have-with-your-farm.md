@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Many Touches Should You Have With Your Farm?
-date: 2019-11-04 19:11:20
+date: 2019-11-04 19:11:00
 tags:
 excerpt: How many touches should you have with your farm? Here are my thoughts.
 enclosure:
