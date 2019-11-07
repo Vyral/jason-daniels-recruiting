@@ -12,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/daniels-youtube.jpg
-youtube_code: xqE0kObKYKI
+youtube_code: VRWxsDnAkwE
 ---
 
 {% include youtube.html %}
 
-<center>How many touches should you have with your farm? Here are my thoughts.</center>
+<center><em>How many touches should you have with your farm? Here are my thoughts.</em></center>
 
 &nbsp;
 
