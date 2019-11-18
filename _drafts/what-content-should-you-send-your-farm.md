@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/daniels-youtube-16.jpg
 youtube_code: FguxKxGY0Lo
 ---
 
-{% include youtube.html %}The content you send your farm shouldn’t be exactly the same as the content you send your sphere. Let’s talk about why.
+{% include youtube.html %}<center>The content you send your farm shouldn’t be exactly the same as the content you send your sphere. Let’s talk about why.</center>
 
 When you send out content to your farm, the information you send them should be a little different from the things you send your sphere, in general. This is because **farms are restricted to a geographic area, whereas your sphere is just a collection of people you’ve connected with.&nbsp;**
 
