@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Contact Expired Leads
-date:
+date: 2019-12-03 18:09:43
 tags:
 excerpt: Today’s message is about how to prospect expired leads.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/daniels-youtube-1.jpg
 youtube_code: hVRhnM106Rk
 ---
 
-{% include youtube.html %}<center>Today’s message is about how to prospect expired leads.</center>
+{% include youtube.html %}
+
+<center>Today&rsquo;s message is about how to prospect expired leads.</center>
+
+&nbsp;
 
 Today I want to discuss how to go about prospecting expired leads. **One of the lowest-hanging fruits if you don’t have a large sphere of clients is going after expired listings.** The basic method of getting expired listings is consistent followups. The number one way real estate agents get in touch with expired listings is by simply calling them.&nbsp;
 
