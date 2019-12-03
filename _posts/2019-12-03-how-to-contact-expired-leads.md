@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Contact Expired Leads
-date: 2019-12-03 18:09:43
+date: 2019-12-03 18:09:00
 tags:
 excerpt: Today’s message is about how to prospect expired leads.
 enclosure:
