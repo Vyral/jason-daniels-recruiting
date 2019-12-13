@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/daniels-youtube-2-2.jpg
 youtube_code: PevVBJYQppc
 ---
 
-{% include youtube.html %}Our team offers clients a smooth, professional experience from beginning to end. Here’s how our team provides superior service to both buyers and sellers.
+{% include youtube.html %}<center>Our team offers clients a smooth, professional experience from beginning to end. Here’s how our team provides superior service to both buyers and sellers.</center>
 
 Whether you’re thinking of buying or selling a home, you want to have a real estate team at your side. When you work with a team of agents, you have a group of professionals who are experts at what they do.
 
