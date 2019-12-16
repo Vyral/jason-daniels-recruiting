@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of Working With Our Team
-date: 2019-12-13 14:16:08
+date: 2019-12-13 14:16:00
 tags:
 excerpt: >-
   Our team offers clients a smooth, professional experience from beginning to
@@ -17,7 +17,7 @@ youtube_code: PevVBJYQppc
 
 {% include youtube.html %}
 
-<center>Our team offers clients a smooth, professional experience from beginning to end. Here&rsquo;s how our team provides superior service to both buyers and sellers.</center>
+<center><em>Our team offers clients a smooth, professional experience from beginning to end. Here&rsquo;s how our team provides superior service to both buyers and sellers.</em></center>
 
 &nbsp;
 
