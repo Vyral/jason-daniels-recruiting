@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Value of Scripts
-date:
+date: 2019-12-17 14:39:44
 tags:
 excerpt: >-
   It’s important to learn scripts as an agent, but you shouldn’t sound robotic
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/daniels-youtube-3.jpg
 youtube_code: I4nYNBFZswI
 ---
 
-{% include youtube.html %}<center>It’s important to learn scripts as an agent, but you shouldn’t sound robotic when using them.</center>
+{% include youtube.html %}
+
+<center>It&rsquo;s important to learn scripts as an agent, but you shouldn&rsquo;t sound robotic when using them.</center>
+
+&nbsp;
 
 As an agent, you absolutely should use scripts when dealing with clients, but you shouldn’t sound canned when using them.&nbsp;
 
