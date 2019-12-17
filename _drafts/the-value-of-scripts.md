@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/daniels-youtube-3.jpg
 youtube_code: I4nYNBFZswI
 ---
 
-{% include youtube.html %}It’s important to learn scripts as an agent, but you shouldn’t sound robotic when using them.
+{% include youtube.html %}<center>It’s important to learn scripts as an agent, but you shouldn’t sound robotic when using them.</center>
 
 As an agent, you absolutely should use scripts when dealing with clients, but you shouldn’t sound canned when using them.&nbsp;
 
