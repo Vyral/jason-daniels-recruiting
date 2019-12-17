@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Value of Scripts
-date: 2019-12-17 14:39:44
+date: 2019-12-17 14:39:00
 tags:
 excerpt: >-
   It’s important to learn scripts as an agent, but you shouldn’t sound robotic
@@ -31,7 +31,7 @@ Once in a while, you’ll get a question or objection you’ve never dealt with,
 
 {% include pullquote.html %}
 
-**If you’d like to see some of the scripts my team and I use, use this link to schedule a consultation.** We practice our scripts daily, and we have different scripts for all types of clients and objections. Like I said, you don’t want to sound canned, which is why I advise that you keep the key elements of the script the same, but alter your responses so they feel like they’re coming from *you*.
+**If you’d like to see some of the scripts my team and I use, [use this link](https://realestatecareersincolorado.com/contact/){: target="_blank"} to schedule a consultation.** We practice our scripts daily, and we have different scripts for all types of clients and objections. Like I said, you don’t want to sound canned, which is why I advise that you keep the key elements of the script the same, but alter your responses so they feel like they’re coming from *you*.
 
 If you’re able to answer your clients’ objections professionally they’ll know that you know what you’re talking about. By sounding more professional, you’ll have more success converting your clients.&nbsp;
 
