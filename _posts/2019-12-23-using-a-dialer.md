@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using a Dialer
-date:
+date: 2019-12-23 20:23:56
 tags:
 excerpt: Whether or not you should use a dialer depends on the marketing you do.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/daniels-youtube-4.jpg
 youtube_code: 0YToEDXZzlE
 ---
 
-{% include youtube.html %}<center>Whether or not you should use a dialer depends on the marketing you do.&nbsp;</center>
+{% include youtube.html %}
+
+<center>Whether or not you should use a dialer depends on the marketing you do.&nbsp;</center>
+
+&nbsp;
 
 Should you use a dialer?&nbsp;
 
