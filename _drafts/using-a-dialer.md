@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/daniels-youtube-4.jpg
 youtube_code: 0YToEDXZzlE
 ---
 
-{% include youtube.html %}Whether or not you should use a dialer depends on the marketing you do.&nbsp;
+{% include youtube.html %}<center>Whether or not you should use a dialer depends on the marketing you do.&nbsp;</center>
 
 Should you use a dialer?&nbsp;
 
