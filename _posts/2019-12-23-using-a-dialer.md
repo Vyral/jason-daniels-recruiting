@@ -15,7 +15,7 @@ youtube_code: 0YToEDXZzlE
 
 {% include youtube.html %}
 
-<center>Whether or not you should use a dialer depends on the marketing you do.&nbsp;</center>
+<center><em>Whether or not you should use a dialer depends on the marketing you do.</em>&nbsp;</center>
 
 <br>Should you use a dialer?&nbsp;
 
