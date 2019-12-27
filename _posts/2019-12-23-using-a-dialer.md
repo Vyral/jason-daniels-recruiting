@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using a Dialer
-date: 2019-12-23 20:23:56
+date: 2019-12-23 20:23:00
 tags:
 excerpt: Whether or not you should use a dialer depends on the marketing you do.
 enclosure:
@@ -17,9 +17,7 @@ youtube_code: 0YToEDXZzlE
 
 <center>Whether or not you should use a dialer depends on the marketing you do.&nbsp;</center>
 
-&nbsp;
-
-Should you use a dialer?&nbsp;
+<br>Should you use a dialer?&nbsp;
 
 In case you don’t know, a dialer is a system that automatically dials lists for you. It helps you be more efficient, and most of them have a built-in CRM, as well, so you can track notes. If you want to get really fancy, you can buy a triple-line dialer that can call three people at a time.&nbsp;
 
