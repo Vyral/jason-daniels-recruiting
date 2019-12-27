@@ -3,12 +3,15 @@ layout: post
 title: Using a Dialer
 date: 2019-12-23 20:23:00
 tags:
+  - Lead Conversion
+  - Buyer Prospects
+  - Lead Generation
 excerpt: Whether or not you should use a dialer depends on the marketing you do.
 enclosure:
 pullquote: Dialers are typically meant for circle prospecting and cold calling.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/daniels-youtube-4.jpg
 youtube_code: 0YToEDXZzlE
 ---
