@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/daniels-youtube-6.jpg
 youtube_code: FaDfldyAfQI
 ---
 
-{% include youtube.html %}Here are a few quick tips that will help you get more reviews.
+{% include youtube.html %}<center>Here are a few quick tips that will help you get more reviews.</center>
 
 We all know that with the advent of social media and the rise of sites like Yelp and Zillow, reviews have become increasingly important to real estate agents. What’s the key to getting more, better reviews, though?
 
