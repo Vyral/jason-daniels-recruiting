@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick Tips to Boost Your Referral Business
-date: 2020-01-24 17:38:48
+date: 2020-01-24 17:38:00
 tags:
 excerpt: How do you ask for referrals? Today I’ll share my tips and best practices.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/daniels-youtube-8-1.jpg
 youtube_code: kxdE0EByFuE
 ---
 
-{% include youtube.html %}<center>How do you ask for referrals? Today I’ll share my tips and best practices.</center>
+{% include youtube.html %}
+
+<center>How do you ask for referrals? Today I&rsquo;ll share my tips and best practices.</center>
+
+&nbsp;
 
 If you’re reluctant to ask for more referrals, there are a few simple things you can try to increase your referral business.
 
