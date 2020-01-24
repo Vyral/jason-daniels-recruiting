@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/daniels-youtube-8-1.jpg
 youtube_code: kxdE0EByFuE
 ---
 
-{% include youtube.html %}How do you ask for referrals? Today I’ll share my tips and best practices.
+{% include youtube.html %}<center>How do you ask for referrals? Today I’ll share my tips and best practices.</center>
 
 If you’re reluctant to ask for more referrals, there are a few simple things you can try to increase your referral business.
 
