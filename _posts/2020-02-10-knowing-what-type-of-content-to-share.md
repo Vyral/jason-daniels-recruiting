@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Knowing What Type of Content to Share
-date:
+date: 2020-02-10 22:52:53
 tags:
 excerpt: >-
   Not all content is good content. Today I’m sharing how to know the difference
