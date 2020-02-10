@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/daniels-youtube-11.jpg
 youtube_code: kzdA4Piwm-w
 ---
 
-{% include youtube.html %}Not all content is good content. Today I’m sharing how to know the difference and better engage with your sphere.
+{% include youtube.html %}<center>Not all content is good content. Today I’m sharing how to know the difference and better engage with your sphere.</center>
 
 As a real estate agent, it’s important that we engage with our sphere regularly. The challenge with that, of course, is crafting meaningful content that provides your clients with value. Here are some tips for content creation:&nbsp;
 
