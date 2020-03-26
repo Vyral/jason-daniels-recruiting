@@ -16,7 +16,7 @@ client:
   about_markdown: |
     Jason is a Colorado native and has lived in Colorado Springs for over 30 years. Jason and his team have sold over nine hundred homes over the past 15 years in Colorado Springs.  He enjoys all types of outdoor activities including hiking, biking, camping, skiing, and golfing. Jason graduated from Colorado State University with a bachelor's degree in Construction Management. He is married with six children and enjoys spending time with family. Jason and his team specialize with first time buyers, investors, golf course properties, luxury homes, military relocation, and new home construction. He is also a member of Peak Producers and the Elite 25, both exclusive groups of top agents in the Colorado Springs area.
   market: Colorado Springs
-  brand: RE/MAX Millennium
+  brand: Finch & Gable
   brokerage:
   address: 9362 Grand Cordera Pkwy Suite 100 Colorado Springs, CO 80924
   phone: 719-999-8900
@@ -70,8 +70,9 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#1f3d7d'
-  theme_color: '#999'
+  brand_color: '#96694c'
+  accent_color: '#ee907b'
+  theme_color: '#33312d'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -91,7 +92,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#123456'
+  button_text_color: '#96694c'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
