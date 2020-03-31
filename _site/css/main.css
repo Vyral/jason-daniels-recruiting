@@ -1223,7 +1223,7 @@ html[xmlns] .flexslider .slides {
     line-height: 1; }
   .cta-sidebar-container p {
     font-size: 18px;
-    padding: 0 10px 0 0;
+    padding: 0 10px 0 30px;
     color: #555; }
 
 .ctacontainer {
