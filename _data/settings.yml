@@ -14,7 +14,7 @@ client:
   title:
   license_number:
   about_markdown: |
-    Jason is a Colorado native and has lived in Colorado Springs for over 30 years. Jason and his team have sold twelve hundred homes over the past 16 years in Colorado Springs. He enjoys all types of outdoor activities including hiking, biking, camping, skiing, and golfing. Jason graduated from Colorado State University with a bachelor’s degree in Construction Management. He is married with six children and enjoys spending time with family. Jason and his team specialize with first time buyers, investors, golf course properties, luxury homes, military relocation, and new home construction. He is also a member of Peak Producers and the Elite 25, both exclusive groups of top agents in the Colorado Springs area.  
+    Jason is a Colorado native and has lived in Colorado Springs for over 30 years. Jason and his team have sold twelve hundred homes over the past 16 years in Colorado Springs. He enjoys all types of outdoor activities including hiking, biking, camping, skiing, and golfing. Jason graduated from Colorado State University with a bachelor’s degree in Construction Management. He is married with six children and enjoys spending time with family. Jason and his team specialize with first time buyers, investors, golf course properties, luxury homes, military relocation, and new home construction. He is also a member of Peak Producers and the Elite 25, both exclusive groups of top agents in the Colorado Springs area.
   market: Colorado Springs
   brand: Finch & Gable
   brokerage:
@@ -25,6 +25,20 @@ client:
   phone2_type:
   email: info@jasondanielshomes.com
   url: http://www.jasondanielshomes.com
+
+sidebar_CTA:
+  - CTA_image_path: /img/cta-images/001.jpg
+    CTA_title: "Join Our Team"
+    CTA_text: "Sell More Homes in Less Time"
+    CTA_link_text: "Apply Now"
+    CTA_url: /join-our-team/
+
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/002.jpg
+    CTA_title2: "Free Strategy Call"
+    CTA_text2: "Personal Advice for You"
+    CTA_link_text2: "Book a Call"
+    CTA_url2: /strategy-call/
 
 lender:
   show_section: false
