@@ -30,7 +30,7 @@ This is 100% educational advice. I’d like you to get to know what we’re up t
 
 SPECIAL NEW SUBSCRIBER BONUS
 
-When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about \_\_\_\_\_ homes every year.
+When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about 150 homes every year.
 
 Feel free to unsubscribe anytime. We will never, ever, ever spam you.
 
