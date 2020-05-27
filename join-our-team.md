@@ -8,6 +8,8 @@ permalink: /join-our-team/
 
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 
+&nbsp;
+
 Dear Real Estate Agent,
 
 Are you frustrated with where you’re at in your real estate business?
