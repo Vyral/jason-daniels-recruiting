@@ -28,7 +28,7 @@ This newsletter is specifically for real estate agents who want to grow, learn, 
 
 This is 100% educational advice. I’d like you to get to know what we’re up to here so we can grow the size of the real estate pie in {{site.data.settings.client.market}}. In the past year, 18,272 homes SOLD in our {{site.data.settings.client.market}} market, so there is plenty of business to go around.
 
-**SPECIAL NEW SUBSCRIBER BONUS**
+\*\*SPECIAL NEW SUBSCRIBER BONUS\*\*
 
 When you subscribe, you’ll also receive a free copy of my Office Tour DVD so you can see how our office is set up, who does what, and what’s it like to work in a productive real estate office. We collectively sell about 150 homes every year.
 
