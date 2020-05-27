@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: -- MARKET -- Careers
+title: Colorado Springs Careers
 permalink: /join-our-team/
 ---
 
