@@ -42,10 +42,10 @@
   <!-- Oldschool meta content -->
   <meta itemprop="description" content="Jason Daniels, a top Real Estate Agent in Colorado Springs, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.">
   <meta name="keywords" content="">
-  <meta name="copyright" content="Copyright © 2020">
+  <meta name="copyright" content="Copyright © 2021">
   <meta name="author" content="Jason Daniels">
   <meta name="designer" content="Brent Stradling, Emma Drews">
-  <meta name="email" content="info@finchandgable.com">
+  <meta name="email" content="careers@finchandgable.com">
   <meta name="robots" content="index, follow">
   <meta name="googlebot" content="index, follow">
   <link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
@@ -58,6 +58,33 @@
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="#33312d">
+
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script>
+		function onContactSubmit(token) {
+		document.getElementById("contact-form").submit();
+	}
+
+	function onHomeValueSubmit(token) {
+	document.getElementById("home-value-form").submit();
+	}
+
+	function onHomeSearchSubmit(token) {
+	document.getElementById("home-search-form").submit();
+	}
+
+		function onJoinOurTeamSubmit(token) {
+	  document.getElementById("join-our-team-form").submit();
+	}
+
+
+		function onStrategyCallSubmit(token) {
+	  document.getElementById("strategy-call-form").submit();
+	}
+
+	</script>
+
+
 </head>
 
 
@@ -100,6 +127,8 @@
       		<li><a href="">Events</a></li>
     		
       		<li><a href="/contact/">Free Strategy Call</a></li>
+    		
+      		<li><a href="/guaranteed-offer/">Guaranteed Offer</a></li>
     		
 			
 			
@@ -181,7 +210,7 @@
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-lg-offset-1">
 					<h3 class="site-title">Our Mission on this site is to educate Real Estate Agents on how to sell more homes.</h3>
-					<form method="post" class="home-value cta-forms" action="https://formspree.io/info@finchandgable.com" onsubmit="return setReturn()">
+					<form method="post" class="home-value cta-forms" action="https://formspree.io/careers@finchandgable.com" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
         <!--1-->
@@ -328,7 +357,7 @@
     </fieldset>
     <!-- Cloud cannon settings field -->
     <div class="hidden">
-      <input type="hidden" name="_to" value="info@finchandgable.com">
+      <input type="hidden" name="_to" value="careers@finchandgable.com">
       <input type="hidden" name="_subject" value="Seller Request Message From Your Colorado Springs's Best Real Estate Training">
       <input type="text" name="_gotcha">
     </div>
@@ -872,7 +901,7 @@ function setReturn(){
 				
 				(719) 999-8900<br />
 				
-				<a href="mailto:info@finchandgable.com" target="_blank">info@finchandgable.com</a><br />
+				<a href="mailto:careers@finchandgable.com" target="_blank">careers@finchandgable.com</a><br />
 				<a href="http://www.jasondanielshomes.com" target="_blank">www.jasondanielshomes.com</a><br />
 			</p>
 		</div>
@@ -940,7 +969,7 @@ function topFunction() {
 					
 
 	      </div>
-	      <div class="col-sm-4"><a href="mailto:info@finchandgable.com">info@finchandgable.com</a></div>
+	      <div class="col-sm-4"><a href="mailto:careers@finchandgable.com">careers@finchandgable.com</a></div>
 	      <div class="col-sm-4"><a href="http://www.jasondanielshomes.com" target="_blank">www.jasondanielshomes.com</a></div>
 	    </div>
 	    <div class="row">
@@ -995,7 +1024,7 @@ function topFunction() {
 	  </div>
 	  <div class="attribution">
 			
-				<p>&copy;2020 Finch & Gable Real Estate Co.</p>
+				<p>&copy;2021 Finch & Gable Real Estate Co.</p>
 			
 	    Proudly Brought To You By
 	    <a href="http://getvyral.com" target="_blank">

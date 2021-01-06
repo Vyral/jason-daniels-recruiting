@@ -12,6 +12,8 @@ custom_links:
     url:
   - title: Free Strategy Call
     url: /contact/
+  - title: Guaranteed Offer
+    url: /guaranteed-offer/
 client:
   name: Jason Daniels
   title:
@@ -37,6 +39,8 @@ client:
   phone2_type:
   email: careers@finchandgable.com
   url: 'http://www.jasondanielshomes.com'
+forms:
+  sitekey: 6LdNYiMaAAAAAGa_B4_RNwsUewg_2PdBRaGwN7ZD
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: Join Our Team
